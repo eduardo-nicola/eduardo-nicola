@@ -37,23 +37,6 @@ const eduardo = {
 
 <div align="center">
 
-## 📊 GitHub Statistics
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=eduardo-nicola&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-nicola&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
 ## 📈 GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardo-nicola&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffb86c&area=true&hide_border=true" alt="GitHub Activity Graph" />
@@ -72,7 +55,7 @@ const eduardo = {
 <div align="center">
 <br>
 <p>
-<a href="https://github.com/eduardo-nicola/path-fast" target="_blank">
+<a href="https://github.com/path-fast/core" target="_blank">
 <img src="https://img.shields.io/badge/Repositório-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.npmjs.com/package/path-fast" target="_blank">
