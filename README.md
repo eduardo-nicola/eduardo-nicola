@@ -39,7 +39,8 @@ const eduardo = {
 
 ## 📈 GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardo-nicola&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffb86c&area=true&hide_border=true" alt="GitHub Activity Graph" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=eduardo-nicola&theme=transparent&hide_border=true&border_radius=1.3&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=550&card_height=50&type=png)](https://git.io/streak-stats)
+
 
 </div>
 
