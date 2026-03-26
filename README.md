@@ -31,7 +31,25 @@ const eduardo = {
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,nestjs,nextjs,nuxtjs,php,laravel,mysql,postgres,firebase,docker,aws,linux,git,github,vscode&theme=dark" />
+### JavaScript / ecossistema
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue,pinia,npm,nodejs,bun,pnpm,nestjs,nextjs,nuxtjs,vite,jest,vercel,webpack,prisma,tailwind&theme=dark&perline=9" alt="JavaScript e ecossistema">
+
+### PHP
+
+<img src="https://skillicons.dev/icons?i=php,laravel&theme=dark&perline=8" alt="PHP e Laravel">
+
+### Bancos de dados e plataformas
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase,supabase&theme=dark&perline=8" alt="Bancos de dados e plataformas">
+
+### DevOps, mensageria e CI/CD
+
+<img src="https://skillicons.dev/icons?i=docker,rabbitmq,gitlab,githubactions&theme=dark&perline=8" alt="DevOps, mensageria e CI/CD">
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=postman,vscode,bash&theme=dark&perline=8" alt="Ferramentas de desenvolvimento">
 
 </div>
 
