@@ -1,121 +1,20 @@
-<div align="center">
-  
-# 🚀 Eduardo Nicola
+# Eduardo Nicola
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Desenvolvedor+Full+Stack;JavaScript+%26+TypeScript;Apaixonado+por+Tecnologia)](https://git.io/typing-svg)
+Dev full stack no Brasil 🇧🇷. Hoje trabalho com produtos de pagamento e vendas online — back-end em Laravel, front em Vue, tudo rodando em Docker.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+- 🔧 **No dia a dia:** APIs, integrações de pagamento, performance de banco
+- 📚 **Estudando:** TypeScript no back-end, arquitetura e observabilidade
+- 🤖 **Curtindo:** automatizar fluxo de trabalho com IA e CLI
+- 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/eduardo-nicola-bb299923b) · [eduardonicolagit@gmail.com](mailto:eduardonicolagit@gmail.com)
 
-</div>
+### Stack
 
-## 🌟 Sobre Mim
+<img src="https://skillicons.dev/icons?i=php,laravel,vue,ts,nodejs,mysql,redis,docker,aws,linux&theme=dark" alt="PHP, Laravel, Vue, TypeScript, Node.js, MySQL, Redis, Docker, AWS, Linux" />
 
-```javascript
-const eduardo = {
-    nome: "Eduardo Nicola",
-    localização: "Brasil 🇧🇷",
-    código: ["JavaScript", "TypeScript", "PHP", "Shell Script"],
-    frameworks: {
-        frontend: ["React", "Vue.js", "Next.js", "Nuxt.js"],
-        backend: ["Node.js", "Nest.js", "Laravel"],
-        mobile: ["React Native"]
-    },
-    databases: ["MySQL", "PostgreSQL", "Firebase"],
-    devOps: ["Docker", "AWS", "Linux"],
-    currentFocus: "Desenvolvimento de aplicações escaláveis e modernas",
-    funFact: "Sempre aprendendo algo novo! 🚀"
-};
-```
+### Contribuições
 
-<div align="center">
-
-## 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,pinia,npm,nodejs,bun,pnpm,nestjs,nextjs,nuxtjs,vite,jest,vercel,webpack,prisma,tailwind,php,laravel,mysql,postgres,redis,firebase,supabase,docker,rabbitmq,gitlab,githubactions,postman,vscode,bash&theme=dark&perline=9" alt="JavaScript e ecossistema">
-
-</div>
-
-<div align="center">
-
-## 📈 GitHub Activity Graph
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=eduardo-nicola&theme=transparent&hide_border=true&border_radius=1.3&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=550&card_height=50&type=png)](https://git.io/streak-stats)
-
-
-</div>
-
-
-<div align="center">
-
-## 💼 Projetos em Destaque
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">⚡ Path Fast CLI</h3>
-<div align="center">
-<br>
-<p>
-<a href="https://github.com/path-fast/core" target="_blank">
-<img src="https://img.shields.io/badge/Repositório-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.npmjs.com/package/path-fast" target="_blank">
-<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-</a>
-</p>
-<p><strong>Node.js, TypeScript, CLI</strong> - Ferramenta de linha de comando para navegação rápida entre diretórios.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">🎨 All Black OM Theme</h3>
-<div align="center">
-<br>
-<p>
-<a href="https://github.com/eduardo-nicola/all-black-om-theme" target="_blank">
-<img src="https://img.shields.io/badge/Repositório-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://marketplace.visualstudio.com/items?itemName=eduardo-nicola.all-black-om-theme" target="_blank">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</a>
-</p>
-<p><strong>JSON, VSCode Extension</strong> - Tema escuro elegante e minimalista para Visual Studio Code.</p>
-</div>
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-## 📫 Vamos nos conectar?
-
-<a href="https://www.linkedin.com/in/eduardo-nicola-bb299923b" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:eduardonicolagit@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://github.com/eduardo-nicola" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
-<div align="center">
-
-## 💡 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
-
-</div>
-
-
-<div align="center">
-
-### 🚀 *"Transformando ideias em código, código em soluções."*
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-**⭐ Se você gostou dos meus projetos, deixe uma estrela!**
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardo-nicola/eduardo-nicola/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardo-nicola/eduardo-nicola/output/github-snake.svg" />
+  <img alt="Cobra comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/eduardo-nicola/eduardo-nicola/output/github-snake.svg" />
+</picture>
